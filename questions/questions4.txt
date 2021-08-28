@@ -1,0 +1,6 @@
+Generate the multiplication table for ‘n’ numbers up to ‘k’ terms (using nested for loops).
+Generate Floyd’s triangle using natural numbers for a given limit N. (using for loops).
+Evaluate the sine series, sin(x)= x- x3/3! + x5/5!–x7/7!+ .... to n terms.
+Check whether a given number is perfect or not
+Find out the generic root of any number.
+Write a program to demonstrate use of break and continue statements in for loop.

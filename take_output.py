@@ -19,7 +19,7 @@ def main():
             print(details)
             subprocess.call(['gcc', dir+file_name])
             subprocess.call("a")
-            print(f'\nProcess returned 0 (0x0)  execution time : {round(time.time() - start_time,2)}')
+            print(f'\nProcess returned 0 (0x0)  execution time : {round(time.time() - start_time,3)}')
             print('Press anykey to continue.')
             pyautogui.hotkey('win', 'alt','printscreen')
             time.sleep(0.8)
