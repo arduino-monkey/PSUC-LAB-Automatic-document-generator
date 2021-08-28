@@ -1,0 +1,8 @@
+Write a C program to add two integers a and b read through the keyboard. Display the result using third variable sum.
+Write a C program to find the sum, difference, product and quotient of 2 numbers.
+Write a C program to print the ASCII value of a character.
+Write a C program to display the size of the data type int, char, float, double, long int and long double using size of ( ) operator.
+Input P, N and R to compute simple and compound interest.
+Input radius to find the volume and surface area of a sphere.
+Convert the given temperature in Fahrenheit to Centigrade. [Hint: C=5/9(F-32)].
+Write a C program to evaluate the following expression for the values a = 30, b=10, c=5, d=15.(i) (a + b) * c / d (ii) ((a + b) *c) / d (iii) a + (b * c) / d (iv) (a + b) * (c / d)

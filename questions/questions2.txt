@@ -1,0 +1,6 @@
+Check whether the given number is odd or even.
+Find the largest among 3 numbers.
+Swap two numbers without using third variable.
+Compute all the roots of a quadratic equation using switch case statement.
+Write a program that will read the value of x and evaluate thefollowing function.Y= 1, x>0 Y=0, x=0 Y=-1, x<0.Use else if statements & Print the result (‘Y’ value).
+Find the smallest among three numbers using conditional operator.
