@@ -8,10 +8,6 @@ int main(){
     temp = n;
     for (;;)
     {
-        if (temp <= 9)
-            break;
-        else
-            temp = sum;
         for (;;)
         {
             if (temp == 0)
@@ -20,7 +16,14 @@ int main(){
             sum += last_dig;
             temp /= 10;
         }
+        if (sum <= 9)
+            break;
+        else
+        {
+            temp = sum;
+            sum = 0;
+        }
     }
-    printf("%d", sum);
+    printf("%d ", sum);
     return 0;
 }
