@@ -4,8 +4,8 @@ import time
 import pyautogui
 import pathlib
 
-details = 'Arya Anand 200968102 28-08-2021'
-dir = 'answers\\answers3'
+details = 'Yogeesh Adusumilli 200905192'
+dir = 'answers\\answers4\\'
 fake_path = str(pathlib.Path().resolve()) + dir
 exe = '.exe'
 
