@@ -7,7 +7,7 @@ from take_output import details
 HEADING = 24
 QUES = 14
 CODE = 12
-details_printf = f'printf("{details}")'
+details_printf = f'printf("{details}");'
 
 
 def writeBase(doc, text, font_size, font_family = 'Roborto'):

@@ -1,0 +1,6 @@
+Find whether a given matrix is symmetric or not.
+Find the trace and norm of a given square matrix. [Hint: Trace= sum of principal diagonal elements Norm= SQRT (sum of squares of the individual elements of an array)]
+Perform matrix multiplication.
+To interchange the primary and secondary diagonal elements in the given Matrix.
+Interchange any two Rows & Columns in the given Matrix.
+Search for an element in a given matrix and count the number of its occurrences.

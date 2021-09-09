@@ -1,0 +1,5 @@
+Find the largest and smallest element in a 1D array.
+Print all the prime numbers in a given 1D array.
+Arrange the given elements in a 1D array in ascending and descending order using bubble sort method. [Hint: use switch case (as case 'a' and case'd') to specify the order].
+Insert an element into a 1D array by getting an element and the position from the user.
+Search the position of the number that is entered by the user and delete that number from the array and display the resultant array elements.
